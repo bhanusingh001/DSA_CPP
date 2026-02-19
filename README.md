@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 7
+**Problems Solved:** 8
 
 ## ? Solved Problems
 
@@ -13,7 +13,8 @@
 | 5 | Read Float & Print | I/O |
 | 6 | Char to ASCII | I/O |
 | 7 | Read Full Line | I/O |
+| 8 | Formatted Output | I/O |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-19T17:44:25.004Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-19T18:20:42.617Z*
