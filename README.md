@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 12
+**Problems Solved:** 13
 
 ## ? Solved Problems
 
@@ -18,7 +18,8 @@
 | 10 | Print 1 to N | For Loop |
 | 11 | Print N to 1 | For Loop |
 | 12 | Print Even Numbers | For Loop |
+| 13 | Print Odd Numbers | For Loop |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-19T19:53:31.917Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-19T20:51:56.019Z*
