@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 15
+**Problems Solved:** 16
 
 ## ? Solved Problems
 
@@ -21,7 +21,8 @@
 | 13 | Print Odd Numbers | For Loop |
 | 14 | Sum of N Numbers | For Loop |
 | 15 | Factorial | For Loop |
+| 16 | Multiplication Table | For Loop |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-19T21:42:39.222Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-19T21:43:53.331Z*
