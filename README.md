@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 9
+**Problems Solved:** 10
 
 ## ? Solved Problems
 
@@ -15,7 +15,8 @@
 | 7 | Read Full Line | I/O |
 | 8 | Formatted Output | I/O |
 | 9 | For Loop | For Loop |
+| 10 | Print 1 to N | For Loop |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-19T19:40:49.021Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-19T19:44:55.384Z*
