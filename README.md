@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 28
+**Problems Solved:** 29
 
 ## ? Solved Problems
 
@@ -31,10 +31,11 @@
 | 23 | Count Digits | For Loop |
 | 24 | Sum of Digits | For Loop |
 | 25 | Reverse a Number | For Loop |
-| 26 | While: Sum till 0 | While Loop |
-| 27 | While: Count Digits | While Loop |
-| 28 | While: Reverse Number | While Loop |
+| 26 | Palindrome Number | For Loop |
+| 27 | While: Sum till 0 | While Loop |
+| 28 | While: Count Digits | While Loop |
+| 29 | While: Reverse Number | While Loop |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-21T18:26:58.293Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-21T18:28:10.863Z*
