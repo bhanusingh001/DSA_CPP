@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 24
+**Problems Solved:** 25
 
 ## ? Solved Problems
 
@@ -19,18 +19,19 @@
 | 11 | Size of Data Types | Data Types |
 | 12 | Conditional Statements | Conditionals |
 | 13 | Even or Odd | Conditionals |
-| 14 | For Loop | For Loop |
-| 15 | Print 1 to N | For Loop |
-| 16 | Print N to 1 | For Loop |
-| 17 | Print Even Numbers | For Loop |
-| 18 | Print Odd Numbers | For Loop |
-| 19 | Sum of N Numbers | For Loop |
-| 20 | Factorial | For Loop |
-| 21 | Multiplication Table | For Loop |
-| 22 | While: Sum till 0 | While Loop |
-| 23 | While: Count Digits | While Loop |
-| 24 | While: Reverse Number | While Loop |
+| 14 | Positive Negative Zero | Conditionals |
+| 15 | For Loop | For Loop |
+| 16 | Print 1 to N | For Loop |
+| 17 | Print N to 1 | For Loop |
+| 18 | Print Even Numbers | For Loop |
+| 19 | Print Odd Numbers | For Loop |
+| 20 | Sum of N Numbers | For Loop |
+| 21 | Factorial | For Loop |
+| 22 | Multiplication Table | For Loop |
+| 23 | While: Sum till 0 | While Loop |
+| 24 | While: Count Digits | While Loop |
+| 25 | While: Reverse Number | While Loop |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-21T18:19:40.252Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-21T18:22:35.963Z*
