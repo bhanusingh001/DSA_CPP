@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 19
+**Problems Solved:** 20
 
 ## ? Solved Problems
 
@@ -25,7 +25,8 @@
 | 17 | Sum of N Numbers | For Loop |
 | 18 | Factorial | For Loop |
 | 19 | Multiplication Table | For Loop |
+| 20 | While: Sum till 0 | While Loop |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-19T23:04:57.127Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-21T17:23:39.514Z*
