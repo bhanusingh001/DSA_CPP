@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 25
+**Problems Solved:** 26
 
 ## ? Solved Problems
 
@@ -28,10 +28,11 @@
 | 20 | Sum of N Numbers | For Loop |
 | 21 | Factorial | For Loop |
 | 22 | Multiplication Table | For Loop |
-| 23 | While: Sum till 0 | While Loop |
-| 24 | While: Count Digits | While Loop |
-| 25 | While: Reverse Number | While Loop |
+| 23 | Count Digits | For Loop |
+| 24 | While: Sum till 0 | While Loop |
+| 25 | While: Count Digits | While Loop |
+| 26 | While: Reverse Number | While Loop |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-21T18:22:35.963Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-21T18:24:34.692Z*
