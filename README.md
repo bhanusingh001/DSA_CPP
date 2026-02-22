@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 46
+**Problems Solved:** 47
 
 ## ? Solved Problems
 
@@ -37,22 +37,23 @@
 | 29 | Largest of Four | Conditionals |
 | 30 | Divisible by 5 and 11 | Conditionals |
 | 31 | Check Char Type | Conditionals |
-| 32 | For Loop | For Loop |
-| 33 | Print 1 to N | For Loop |
-| 34 | Print N to 1 | For Loop |
-| 35 | Print Even Numbers | For Loop |
-| 36 | Print Odd Numbers | For Loop |
-| 37 | Sum of N Numbers | For Loop |
-| 38 | Factorial | For Loop |
-| 39 | Multiplication Table | For Loop |
-| 40 | Count Digits | For Loop |
-| 41 | Sum of Digits | For Loop |
-| 42 | Reverse a Number | For Loop |
-| 43 | Palindrome Number | For Loop |
-| 44 | While: Sum till 0 | While Loop |
-| 45 | While: Count Digits | While Loop |
-| 46 | While: Reverse Number | While Loop |
+| 32 | Uppercase or Lowercase | Conditionals |
+| 33 | For Loop | For Loop |
+| 34 | Print 1 to N | For Loop |
+| 35 | Print N to 1 | For Loop |
+| 36 | Print Even Numbers | For Loop |
+| 37 | Print Odd Numbers | For Loop |
+| 38 | Sum of N Numbers | For Loop |
+| 39 | Factorial | For Loop |
+| 40 | Multiplication Table | For Loop |
+| 41 | Count Digits | For Loop |
+| 42 | Sum of Digits | For Loop |
+| 43 | Reverse a Number | For Loop |
+| 44 | Palindrome Number | For Loop |
+| 45 | While: Sum till 0 | While Loop |
+| 46 | While: Count Digits | While Loop |
+| 47 | While: Reverse Number | While Loop |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-22T18:26:49.803Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-22T18:27:19.659Z*
