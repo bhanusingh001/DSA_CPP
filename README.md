@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 39
+**Problems Solved:** 40
 
 ## ? Solved Problems
 
@@ -27,25 +27,26 @@
 | 19 | Left & Right Shift | Operators |
 | 20 | Compound Assignment | Operators |
 | 21 | Ternary Operator | Operators |
-| 22 | Conditional Statements | Conditionals |
-| 23 | Even or Odd | Conditionals |
-| 24 | Positive Negative Zero | Conditionals |
-| 25 | For Loop | For Loop |
-| 26 | Print 1 to N | For Loop |
-| 27 | Print N to 1 | For Loop |
-| 28 | Print Even Numbers | For Loop |
-| 29 | Print Odd Numbers | For Loop |
-| 30 | Sum of N Numbers | For Loop |
-| 31 | Factorial | For Loop |
-| 32 | Multiplication Table | For Loop |
-| 33 | Count Digits | For Loop |
-| 34 | Sum of Digits | For Loop |
-| 35 | Reverse a Number | For Loop |
-| 36 | Palindrome Number | For Loop |
-| 37 | While: Sum till 0 | While Loop |
-| 38 | While: Count Digits | While Loop |
-| 39 | While: Reverse Number | While Loop |
+| 22 | Operator Precedence | Operators |
+| 23 | Conditional Statements | Conditionals |
+| 24 | Even or Odd | Conditionals |
+| 25 | Positive Negative Zero | Conditionals |
+| 26 | For Loop | For Loop |
+| 27 | Print 1 to N | For Loop |
+| 28 | Print N to 1 | For Loop |
+| 29 | Print Even Numbers | For Loop |
+| 30 | Print Odd Numbers | For Loop |
+| 31 | Sum of N Numbers | For Loop |
+| 32 | Factorial | For Loop |
+| 33 | Multiplication Table | For Loop |
+| 34 | Count Digits | For Loop |
+| 35 | Sum of Digits | For Loop |
+| 36 | Reverse a Number | For Loop |
+| 37 | Palindrome Number | For Loop |
+| 38 | While: Sum till 0 | While Loop |
+| 39 | While: Count Digits | While Loop |
+| 40 | While: Reverse Number | While Loop |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-22T18:18:21.690Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-22T18:19:19.124Z*
