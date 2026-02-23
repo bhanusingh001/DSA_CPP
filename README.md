@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 65
+**Problems Solved:** 66
 
 ## ? Solved Problems
 
@@ -52,26 +52,27 @@
 | 44 | Triangle Type | Conditionals |
 | 45 | Right Triangle Check | Conditionals |
 | 46 | Quadrant Finder | Conditionals |
-| 47 | Switch: Day Name | Switch |
-| 48 | Switch: Calculator | Switch |
-| 49 | Switch: Month Name | Switch |
-| 50 | Switch: Vowel Check | Switch |
-| 51 | For Loop | For Loop |
-| 52 | Print 1 to N | For Loop |
-| 53 | Print N to 1 | For Loop |
-| 54 | Print Even Numbers | For Loop |
-| 55 | Print Odd Numbers | For Loop |
-| 56 | Sum of N Numbers | For Loop |
-| 57 | Factorial | For Loop |
-| 58 | Multiplication Table | For Loop |
-| 59 | Count Digits | For Loop |
-| 60 | Sum of Digits | For Loop |
-| 61 | Reverse a Number | For Loop |
-| 62 | Palindrome Number | For Loop |
-| 63 | While: Sum till 0 | While Loop |
-| 64 | While: Count Digits | While Loop |
-| 65 | While: Reverse Number | While Loop |
+| 47 | Roots of Quadratic | Conditionals |
+| 48 | Switch: Day Name | Switch |
+| 49 | Switch: Calculator | Switch |
+| 50 | Switch: Month Name | Switch |
+| 51 | Switch: Vowel Check | Switch |
+| 52 | For Loop | For Loop |
+| 53 | Print 1 to N | For Loop |
+| 54 | Print N to 1 | For Loop |
+| 55 | Print Even Numbers | For Loop |
+| 56 | Print Odd Numbers | For Loop |
+| 57 | Sum of N Numbers | For Loop |
+| 58 | Factorial | For Loop |
+| 59 | Multiplication Table | For Loop |
+| 60 | Count Digits | For Loop |
+| 61 | Sum of Digits | For Loop |
+| 62 | Reverse a Number | For Loop |
+| 63 | Palindrome Number | For Loop |
+| 64 | While: Sum till 0 | While Loop |
+| 65 | While: Count Digits | While Loop |
+| 66 | While: Reverse Number | While Loop |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-23T18:18:18.721Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-23T18:19:39.615Z*
