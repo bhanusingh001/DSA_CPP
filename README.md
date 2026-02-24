@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 74
+**Problems Solved:** 75
 
 ## ? Solved Problems
 
@@ -80,7 +80,8 @@
 | 72 | While: Sum till 0 | While Loop |
 | 73 | While: Count Digits | While Loop |
 | 74 | While: Reverse Number | While Loop |
+| 75 | Right Triangle Stars | Patterns |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-23T18:23:52.244Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-24T18:20:21.390Z*
