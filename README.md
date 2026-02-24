@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 76
+**Problems Solved:** 77
 
 ## ? Solved Problems
 
@@ -82,7 +82,8 @@
 | 74 | While: Reverse Number | While Loop |
 | 75 | Right Triangle Stars | Patterns |
 | 76 | Inverted Triangle | Patterns |
+| 77 | Pyramid Stars | Patterns |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-24T18:20:43.963Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-24T18:21:16.345Z*
