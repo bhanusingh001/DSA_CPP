@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 86
+**Problems Solved:** 87
 
 ## ? Solved Problems
 
@@ -92,7 +92,8 @@
 | 84 | Pascal's Triangle | Patterns |
 | 85 | Number Pyramid | Patterns |
 | 86 | Zigzag Pattern | Patterns |
+| 87 | Butterfly Pattern | Patterns |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-24T18:27:17.475Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-24T18:27:43.442Z*
