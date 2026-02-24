@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 89
+**Problems Solved:** 90
 
 ## ? Solved Problems
 
@@ -95,7 +95,8 @@
 | 87 | Butterfly Pattern | Patterns |
 | 88 | Sandglass Pattern | Patterns |
 | 89 | Alphabet Triangle | Patterns |
+| 90 | Reverse Alphabet Triangle | Patterns |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-24T18:29:05.619Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-24T18:30:41.173Z*
