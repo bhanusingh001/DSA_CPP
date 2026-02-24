@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 87
+**Problems Solved:** 89
 
 ## ? Solved Problems
 
@@ -93,7 +93,9 @@
 | 85 | Number Pyramid | Patterns |
 | 86 | Zigzag Pattern | Patterns |
 | 87 | Butterfly Pattern | Patterns |
+| 88 | Sandglass Pattern | Patterns |
+| 89 | Alphabet Triangle | Patterns |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-24T18:27:43.442Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-24T18:28:45.587Z*
