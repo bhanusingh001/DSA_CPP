@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 82
+**Problems Solved:** 83
 
 ## ? Solved Problems
 
@@ -88,7 +88,8 @@
 | 80 | Hollow Rectangle | Patterns |
 | 81 | Hollow Pyramid | Patterns |
 | 82 | Right Aligned Triangle | Patterns |
+| 83 | Floyd's Triangle | Patterns |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-24T18:23:16.627Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-24T18:23:45.411Z*
