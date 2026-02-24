@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 77
+**Problems Solved:** 78
 
 ## ? Solved Problems
 
@@ -83,7 +83,8 @@
 | 75 | Right Triangle Stars | Patterns |
 | 76 | Inverted Triangle | Patterns |
 | 77 | Pyramid Stars | Patterns |
+| 78 | Inverted Pyramid | Patterns |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-24T18:21:16.345Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-24T18:21:50.304Z*
