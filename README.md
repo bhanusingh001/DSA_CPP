@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 80
+**Problems Solved:** 81
 
 ## ? Solved Problems
 
@@ -86,7 +86,8 @@
 | 78 | Inverted Pyramid | Patterns |
 | 79 | Diamond Pattern | Patterns |
 | 80 | Hollow Rectangle | Patterns |
+| 81 | Hollow Pyramid | Patterns |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-24T18:22:38.043Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-24T18:22:57.538Z*
