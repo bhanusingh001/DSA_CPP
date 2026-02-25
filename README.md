@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 93
+**Problems Solved:** 96
 
 ## ? Solved Problems
 
@@ -80,26 +80,29 @@
 | 72 | Power Without pow() | For Loop |
 | 73 | Sum of Squares | For Loop |
 | 74 | Sum of Cubes | For Loop |
-| 75 | While: Sum till 0 | While Loop |
-| 76 | While: Count Digits | While Loop |
-| 77 | While: Reverse Number | While Loop |
-| 78 | Right Triangle Stars | Patterns |
-| 79 | Inverted Triangle | Patterns |
-| 80 | Pyramid Stars | Patterns |
-| 81 | Inverted Pyramid | Patterns |
-| 82 | Diamond Pattern | Patterns |
-| 83 | Hollow Rectangle | Patterns |
-| 84 | Hollow Pyramid | Patterns |
-| 85 | Right Aligned Triangle | Patterns |
-| 86 | Floyd's Triangle | Patterns |
-| 87 | Pascal's Triangle | Patterns |
-| 88 | Number Pyramid | Patterns |
-| 89 | Zigzag Pattern | Patterns |
-| 90 | Butterfly Pattern | Patterns |
-| 91 | Sandglass Pattern | Patterns |
-| 92 | Alphabet Triangle | Patterns |
-| 93 | Reverse Alphabet Triangle | Patterns |
+| 75 | Harmonic Series | For Loop |
+| 76 | ASCII A to Z | For Loop |
+| 77 | Decimal to Binary | For Loop |
+| 78 | While: Sum till 0 | While Loop |
+| 79 | While: Count Digits | While Loop |
+| 80 | While: Reverse Number | While Loop |
+| 81 | Right Triangle Stars | Patterns |
+| 82 | Inverted Triangle | Patterns |
+| 83 | Pyramid Stars | Patterns |
+| 84 | Inverted Pyramid | Patterns |
+| 85 | Diamond Pattern | Patterns |
+| 86 | Hollow Rectangle | Patterns |
+| 87 | Hollow Pyramid | Patterns |
+| 88 | Right Aligned Triangle | Patterns |
+| 89 | Floyd's Triangle | Patterns |
+| 90 | Pascal's Triangle | Patterns |
+| 91 | Number Pyramid | Patterns |
+| 92 | Zigzag Pattern | Patterns |
+| 93 | Butterfly Pattern | Patterns |
+| 94 | Sandglass Pattern | Patterns |
+| 95 | Alphabet Triangle | Patterns |
+| 96 | Reverse Alphabet Triangle | Patterns |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-25T18:22:16.021Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-25T18:22:37.451Z*
