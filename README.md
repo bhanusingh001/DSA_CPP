@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 102
+**Problems Solved:** 103
 
 ## ? Solved Problems
 
@@ -108,7 +108,8 @@
 | 100 | Alphabet Triangle | Patterns |
 | 101 | Reverse Alphabet Triangle | Patterns |
 | 102 | Number Diamond | Patterns |
+| 103 | Hollow Diamond | Patterns |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-25T18:29:45.086Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-25T18:30:09.806Z*
