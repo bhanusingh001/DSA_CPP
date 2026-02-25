@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 104
+**Problems Solved:** 105
 
 ## ? Solved Problems
 
@@ -110,7 +110,8 @@
 | 102 | Number Diamond | Patterns |
 | 103 | Hollow Diamond | Patterns |
 | 104 | Arrow Pattern | Patterns |
+| 105 | Checkerboard | Patterns |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-25T18:30:27.285Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-25T18:30:59.781Z*
