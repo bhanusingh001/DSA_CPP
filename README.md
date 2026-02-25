@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 101
+**Problems Solved:** 102
 
 ## ? Solved Problems
 
@@ -107,7 +107,8 @@
 | 99 | Sandglass Pattern | Patterns |
 | 100 | Alphabet Triangle | Patterns |
 | 101 | Reverse Alphabet Triangle | Patterns |
+| 102 | Number Diamond | Patterns |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-25T18:24:40.006Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-25T18:29:45.086Z*
