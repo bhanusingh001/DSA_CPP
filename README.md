@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 111
+**Problems Solved:** 112
 
 ## ? Solved Problems
 
@@ -117,7 +117,8 @@
 | 109 | Function Overloading 1 | Functions |
 | 110 | Function Overloading 2 | Functions |
 | 111 | Inline Function | Functions |
+| 112 | Temperature Converter | Functions |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-26T18:13:38.091Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-26T18:13:56.204Z*
