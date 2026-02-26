@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 116
+**Problems Solved:** 117
 
 ## ? Solved Problems
 
@@ -122,7 +122,8 @@
 | 114 | GCD Function | Functions |
 | 115 | Print 1 to N Recursive | Recursion |
 | 116 | Print N to 1 Recursive | Recursion |
+| 117 | Reverse String Recursive | Recursion |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-26T18:16:24.499Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-26T18:16:45.799Z*
