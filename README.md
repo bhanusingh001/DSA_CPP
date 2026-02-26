@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 114
+**Problems Solved:** 115
 
 ## ? Solved Problems
 
@@ -120,7 +120,8 @@
 | 112 | Temperature Converter | Functions |
 | 113 | isPrime Function | Functions |
 | 114 | GCD Function | Functions |
+| 115 | Print 1 to N Recursive | Recursion |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-26T18:14:58.637Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-26T18:16:00.723Z*
