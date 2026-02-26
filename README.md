@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 110
+**Problems Solved:** 111
 
 ## ? Solved Problems
 
@@ -116,7 +116,8 @@
 | 108 | Default Arguments | Functions |
 | 109 | Function Overloading 1 | Functions |
 | 110 | Function Overloading 2 | Functions |
+| 111 | Inline Function | Functions |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-26T18:12:47.645Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-26T18:13:38.091Z*
