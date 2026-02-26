@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 106
+**Problems Solved:** 107
 
 ## ? Solved Problems
 
@@ -112,7 +112,8 @@
 | 104 | Arrow Pattern | Patterns |
 | 105 | Checkerboard | Patterns |
 | 106 | Spiral Numbers | Patterns |
+| 107 | Pass by Value vs Ref | Functions |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-25T18:31:24.417Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-26T18:11:20.957Z*
