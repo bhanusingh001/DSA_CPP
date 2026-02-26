@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 113
+**Problems Solved:** 114
 
 ## ? Solved Problems
 
@@ -119,7 +119,8 @@
 | 111 | Inline Function | Functions |
 | 112 | Temperature Converter | Functions |
 | 113 | isPrime Function | Functions |
+| 114 | GCD Function | Functions |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-26T18:14:32.742Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-26T18:14:58.637Z*
