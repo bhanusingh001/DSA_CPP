@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 115
+**Problems Solved:** 116
 
 ## ? Solved Problems
 
@@ -121,7 +121,8 @@
 | 113 | isPrime Function | Functions |
 | 114 | GCD Function | Functions |
 | 115 | Print 1 to N Recursive | Recursion |
+| 116 | Print N to 1 Recursive | Recursion |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-26T18:16:00.723Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-26T18:16:24.499Z*
