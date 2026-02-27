@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 125
+**Problems Solved:** 126
 
 ## ? Solved Problems
 
@@ -131,7 +131,8 @@
 | 123 | Array via Pointer | Pointers |
 | 124 | Pointer to Pointer | Pointers |
 | 125 | Dynamic Array (new/delete) | Dynamic Memory |
+| 126 | Dynamic 2D Array | Dynamic Memory |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-27T18:12:41.109Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-27T18:15:25.170Z*
