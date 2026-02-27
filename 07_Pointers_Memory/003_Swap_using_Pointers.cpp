@@ -1,0 +1,26 @@
+/*
+ * Problem: Swap using Pointers
+ * Description: Write void swap(int* a, int* b) using pointer dereferencing. Call from main with &x, &y.
+ * Topic: Pointers
+ * Date: 2026-02-27 23:38
+ */
+
+#include <iostream>
+using namespace std;
+
+void swap(int* a, int* b) {
+    int temp = *a;
+    *a = *b;
+    *b = temp;
+}
+
+int main() {
+    int x = 5, y = 10;
+
+    swap(&x, &y);
+
+    cout << "x = " << x << endl;
+    cout << "y = " << y << endl;
+
+    return 0;
+}
