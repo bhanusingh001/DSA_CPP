@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 120
+**Problems Solved:** 121
 
 ## ? Solved Problems
 
@@ -126,7 +126,8 @@
 | 118 | Palindrome Recursive | Recursion |
 | 119 | GCD Recursive | Recursion |
 | 120 | Pointer Basics | Pointers |
+| 121 | Pointer Arithmetic | Pointers |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-27T16:09:48.361Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-27T18:07:44.871Z*
