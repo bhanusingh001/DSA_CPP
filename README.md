@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 127
+**Problems Solved:** 128
 
 ## ? Solved Problems
 
@@ -133,7 +133,8 @@
 | 125 | Dynamic Array (new/delete) | Dynamic Memory |
 | 126 | Dynamic 2D Array | Dynamic Memory |
 | 127 | Student Class | OOP-Class |
+| 128 | Rectangle Class | OOP-Class |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-27T18:22:18.836Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-27T18:28:39.473Z*
