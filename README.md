@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 121
+**Problems Solved:** 122
 
 ## ? Solved Problems
 
@@ -127,7 +127,8 @@
 | 119 | GCD Recursive | Recursion |
 | 120 | Pointer Basics | Pointers |
 | 121 | Pointer Arithmetic | Pointers |
+| 122 | Swap using Pointers | Pointers |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-27T18:07:44.871Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-27T18:08:56.092Z*
