@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 123
+**Problems Solved:** 124
 
 ## ? Solved Problems
 
@@ -129,7 +129,8 @@
 | 121 | Pointer Arithmetic | Pointers |
 | 122 | Swap using Pointers | Pointers |
 | 123 | Array via Pointer | Pointers |
+| 124 | Pointer to Pointer | Pointers |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-27T18:09:40.321Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-27T18:10:39.643Z*
