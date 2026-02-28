@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 133
+**Problems Solved:** 134
 
 ## ? Solved Problems
 
@@ -116,30 +116,31 @@
 | 108 | Arrow Pattern | Patterns |
 | 109 | Checkerboard | Patterns |
 | 110 | Spiral Numbers | Patterns |
-| 111 | Pass by Value vs Ref | Functions |
-| 112 | Default Arguments | Functions |
-| 113 | Function Overloading 1 | Functions |
-| 114 | Function Overloading 2 | Functions |
-| 115 | Inline Function | Functions |
-| 116 | Temperature Converter | Functions |
-| 117 | isPrime Function | Functions |
-| 118 | GCD Function | Functions |
-| 119 | Print 1 to N Recursive | Recursion |
-| 120 | Print N to 1 Recursive | Recursion |
-| 121 | Reverse String Recursive | Recursion |
-| 122 | Palindrome Recursive | Recursion |
-| 123 | GCD Recursive | Recursion |
-| 124 | Pointer Basics | Pointers |
-| 125 | Pointer Arithmetic | Pointers |
-| 126 | Swap using Pointers | Pointers |
-| 127 | Array via Pointer | Pointers |
-| 128 | Pointer to Pointer | Pointers |
-| 129 | Dynamic Array (new/delete) | Dynamic Memory |
-| 130 | Dynamic 2D Array | Dynamic Memory |
-| 131 | Student Class | OOP-Class |
-| 132 | Rectangle Class | OOP-Class |
-| 133 | BankAccount Class | OOP-Class |
+| 111 | Cross Pattern | Patterns |
+| 112 | Pass by Value vs Ref | Functions |
+| 113 | Default Arguments | Functions |
+| 114 | Function Overloading 1 | Functions |
+| 115 | Function Overloading 2 | Functions |
+| 116 | Inline Function | Functions |
+| 117 | Temperature Converter | Functions |
+| 118 | isPrime Function | Functions |
+| 119 | GCD Function | Functions |
+| 120 | Print 1 to N Recursive | Recursion |
+| 121 | Print N to 1 Recursive | Recursion |
+| 122 | Reverse String Recursive | Recursion |
+| 123 | Palindrome Recursive | Recursion |
+| 124 | GCD Recursive | Recursion |
+| 125 | Pointer Basics | Pointers |
+| 126 | Pointer Arithmetic | Pointers |
+| 127 | Swap using Pointers | Pointers |
+| 128 | Array via Pointer | Pointers |
+| 129 | Pointer to Pointer | Pointers |
+| 130 | Dynamic Array (new/delete) | Dynamic Memory |
+| 131 | Dynamic 2D Array | Dynamic Memory |
+| 132 | Student Class | OOP-Class |
+| 133 | Rectangle Class | OOP-Class |
+| 134 | BankAccount Class | OOP-Class |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-28T18:28:27.272Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-28T18:29:07.773Z*
