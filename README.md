@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 130
+**Problems Solved:** 131
 
 ## ? Solved Problems
 
@@ -62,81 +62,82 @@
 | 54 | Absolute Value | Conditionals |
 | 55 | Check Power of 2 | Conditionals |
 | 56 | Check Perfect Square | Conditionals |
-| 57 | Switch: Day Name | Switch |
-| 58 | Switch: Calculator | Switch |
-| 59 | Switch: Month Name | Switch |
-| 60 | Switch: Vowel Check | Switch |
-| 61 | For Loop | For Loop |
-| 62 | Print 1 to N | For Loop |
-| 63 | Print N to 1 | For Loop |
-| 64 | Print Even Numbers | For Loop |
-| 65 | Print Odd Numbers | For Loop |
-| 66 | Sum of N Numbers | For Loop |
-| 67 | Factorial | For Loop |
-| 68 | Multiplication Table | For Loop |
-| 69 | Count Digits | For Loop |
-| 70 | Sum of Digits | For Loop |
-| 71 | Reverse a Number | For Loop |
-| 72 | Palindrome Number | For Loop |
-| 73 | Power Without pow() | For Loop |
-| 74 | Sum of Squares | For Loop |
-| 75 | Sum of Cubes | For Loop |
-| 76 | Harmonic Series | For Loop |
-| 77 | ASCII A to Z | For Loop |
-| 78 | Decimal to Binary | For Loop |
-| 79 | Binary to Decimal | For Loop |
-| 80 | Perfect Number | For Loop |
-| 81 | Armstrong Number | For Loop |
-| 82 | Strong Number | For Loop |
-| 83 | Print Divisors | For Loop |
-| 84 | While: Sum till 0 | While Loop |
-| 85 | While: Count Digits | While Loop |
-| 86 | While: Reverse Number | While Loop |
-| 87 | Right Triangle Stars | Patterns |
-| 88 | Inverted Triangle | Patterns |
-| 89 | Pyramid Stars | Patterns |
-| 90 | Inverted Pyramid | Patterns |
-| 91 | Diamond Pattern | Patterns |
-| 92 | Hollow Rectangle | Patterns |
-| 93 | Hollow Pyramid | Patterns |
-| 94 | Right Aligned Triangle | Patterns |
-| 95 | Floyd's Triangle | Patterns |
-| 96 | Pascal's Triangle | Patterns |
-| 97 | Number Pyramid | Patterns |
-| 98 | Zigzag Pattern | Patterns |
-| 99 | Butterfly Pattern | Patterns |
-| 100 | Sandglass Pattern | Patterns |
-| 101 | Alphabet Triangle | Patterns |
-| 102 | Reverse Alphabet Triangle | Patterns |
-| 103 | Number Diamond | Patterns |
-| 104 | Hollow Diamond | Patterns |
-| 105 | Arrow Pattern | Patterns |
-| 106 | Checkerboard | Patterns |
-| 107 | Spiral Numbers | Patterns |
-| 108 | Pass by Value vs Ref | Functions |
-| 109 | Default Arguments | Functions |
-| 110 | Function Overloading 1 | Functions |
-| 111 | Function Overloading 2 | Functions |
-| 112 | Inline Function | Functions |
-| 113 | Temperature Converter | Functions |
-| 114 | isPrime Function | Functions |
-| 115 | GCD Function | Functions |
-| 116 | Print 1 to N Recursive | Recursion |
-| 117 | Print N to 1 Recursive | Recursion |
-| 118 | Reverse String Recursive | Recursion |
-| 119 | Palindrome Recursive | Recursion |
-| 120 | GCD Recursive | Recursion |
-| 121 | Pointer Basics | Pointers |
-| 122 | Pointer Arithmetic | Pointers |
-| 123 | Swap using Pointers | Pointers |
-| 124 | Array via Pointer | Pointers |
-| 125 | Pointer to Pointer | Pointers |
-| 126 | Dynamic Array (new/delete) | Dynamic Memory |
-| 127 | Dynamic 2D Array | Dynamic Memory |
-| 128 | Student Class | OOP-Class |
-| 129 | Rectangle Class | OOP-Class |
-| 130 | BankAccount Class | OOP-Class |
+| 57 | Eligible to Vote | Conditionals |
+| 58 | Switch: Day Name | Switch |
+| 59 | Switch: Calculator | Switch |
+| 60 | Switch: Month Name | Switch |
+| 61 | Switch: Vowel Check | Switch |
+| 62 | For Loop | For Loop |
+| 63 | Print 1 to N | For Loop |
+| 64 | Print N to 1 | For Loop |
+| 65 | Print Even Numbers | For Loop |
+| 66 | Print Odd Numbers | For Loop |
+| 67 | Sum of N Numbers | For Loop |
+| 68 | Factorial | For Loop |
+| 69 | Multiplication Table | For Loop |
+| 70 | Count Digits | For Loop |
+| 71 | Sum of Digits | For Loop |
+| 72 | Reverse a Number | For Loop |
+| 73 | Palindrome Number | For Loop |
+| 74 | Power Without pow() | For Loop |
+| 75 | Sum of Squares | For Loop |
+| 76 | Sum of Cubes | For Loop |
+| 77 | Harmonic Series | For Loop |
+| 78 | ASCII A to Z | For Loop |
+| 79 | Decimal to Binary | For Loop |
+| 80 | Binary to Decimal | For Loop |
+| 81 | Perfect Number | For Loop |
+| 82 | Armstrong Number | For Loop |
+| 83 | Strong Number | For Loop |
+| 84 | Print Divisors | For Loop |
+| 85 | While: Sum till 0 | While Loop |
+| 86 | While: Count Digits | While Loop |
+| 87 | While: Reverse Number | While Loop |
+| 88 | Right Triangle Stars | Patterns |
+| 89 | Inverted Triangle | Patterns |
+| 90 | Pyramid Stars | Patterns |
+| 91 | Inverted Pyramid | Patterns |
+| 92 | Diamond Pattern | Patterns |
+| 93 | Hollow Rectangle | Patterns |
+| 94 | Hollow Pyramid | Patterns |
+| 95 | Right Aligned Triangle | Patterns |
+| 96 | Floyd's Triangle | Patterns |
+| 97 | Pascal's Triangle | Patterns |
+| 98 | Number Pyramid | Patterns |
+| 99 | Zigzag Pattern | Patterns |
+| 100 | Butterfly Pattern | Patterns |
+| 101 | Sandglass Pattern | Patterns |
+| 102 | Alphabet Triangle | Patterns |
+| 103 | Reverse Alphabet Triangle | Patterns |
+| 104 | Number Diamond | Patterns |
+| 105 | Hollow Diamond | Patterns |
+| 106 | Arrow Pattern | Patterns |
+| 107 | Checkerboard | Patterns |
+| 108 | Spiral Numbers | Patterns |
+| 109 | Pass by Value vs Ref | Functions |
+| 110 | Default Arguments | Functions |
+| 111 | Function Overloading 1 | Functions |
+| 112 | Function Overloading 2 | Functions |
+| 113 | Inline Function | Functions |
+| 114 | Temperature Converter | Functions |
+| 115 | isPrime Function | Functions |
+| 116 | GCD Function | Functions |
+| 117 | Print 1 to N Recursive | Recursion |
+| 118 | Print N to 1 Recursive | Recursion |
+| 119 | Reverse String Recursive | Recursion |
+| 120 | Palindrome Recursive | Recursion |
+| 121 | GCD Recursive | Recursion |
+| 122 | Pointer Basics | Pointers |
+| 123 | Pointer Arithmetic | Pointers |
+| 124 | Swap using Pointers | Pointers |
+| 125 | Array via Pointer | Pointers |
+| 126 | Pointer to Pointer | Pointers |
+| 127 | Dynamic Array (new/delete) | Dynamic Memory |
+| 128 | Dynamic 2D Array | Dynamic Memory |
+| 129 | Student Class | OOP-Class |
+| 130 | Rectangle Class | OOP-Class |
+| 131 | BankAccount Class | OOP-Class |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-02-28T17:28:15.391Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-02-28T17:28:56.185Z*
