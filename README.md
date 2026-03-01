@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 139
+**Problems Solved:** 140
 
 ## ? Solved Problems
 
@@ -83,69 +83,70 @@
 | 75 | Fibonacci Series | For Loop |
 | 76 | GCD / HCF | For Loop |
 | 77 | LCM of Two Numbers | For Loop |
-| 78 | Power Without pow() | For Loop |
-| 79 | Sum of Squares | For Loop |
-| 80 | Sum of Cubes | For Loop |
-| 81 | Harmonic Series | For Loop |
-| 82 | ASCII A to Z | For Loop |
-| 83 | Decimal to Binary | For Loop |
-| 84 | Binary to Decimal | For Loop |
-| 85 | Perfect Number | For Loop |
-| 86 | Armstrong Number | For Loop |
-| 87 | Strong Number | For Loop |
-| 88 | Print Divisors | For Loop |
-| 89 | While: Sum till 0 | While Loop |
-| 90 | While: Count Digits | While Loop |
-| 91 | While: Reverse Number | While Loop |
-| 92 | Right Triangle Stars | Patterns |
-| 93 | Inverted Triangle | Patterns |
-| 94 | Pyramid Stars | Patterns |
-| 95 | Inverted Pyramid | Patterns |
-| 96 | Diamond Pattern | Patterns |
-| 97 | Hollow Rectangle | Patterns |
-| 98 | Hollow Pyramid | Patterns |
-| 99 | Right Aligned Triangle | Patterns |
-| 100 | Floyd's Triangle | Patterns |
-| 101 | Pascal's Triangle | Patterns |
-| 102 | Number Pyramid | Patterns |
-| 103 | Zigzag Pattern | Patterns |
-| 104 | Butterfly Pattern | Patterns |
-| 105 | Sandglass Pattern | Patterns |
-| 106 | Alphabet Triangle | Patterns |
-| 107 | Reverse Alphabet Triangle | Patterns |
-| 108 | Number Diamond | Patterns |
-| 109 | Hollow Diamond | Patterns |
-| 110 | Arrow Pattern | Patterns |
-| 111 | Checkerboard | Patterns |
-| 112 | Spiral Numbers | Patterns |
-| 113 | Cross Pattern | Patterns |
-| 114 | Plus Pattern | Patterns |
-| 115 | Heart Pattern | Patterns |
-| 116 | Inverted Number Triangle | Patterns |
-| 117 | Pass by Value vs Ref | Functions |
-| 118 | Default Arguments | Functions |
-| 119 | Function Overloading 1 | Functions |
-| 120 | Function Overloading 2 | Functions |
-| 121 | Inline Function | Functions |
-| 122 | Temperature Converter | Functions |
-| 123 | isPrime Function | Functions |
-| 124 | GCD Function | Functions |
-| 125 | Print 1 to N Recursive | Recursion |
-| 126 | Print N to 1 Recursive | Recursion |
-| 127 | Reverse String Recursive | Recursion |
-| 128 | Palindrome Recursive | Recursion |
-| 129 | GCD Recursive | Recursion |
-| 130 | Pointer Basics | Pointers |
-| 131 | Pointer Arithmetic | Pointers |
-| 132 | Swap using Pointers | Pointers |
-| 133 | Array via Pointer | Pointers |
-| 134 | Pointer to Pointer | Pointers |
-| 135 | Dynamic Array (new/delete) | Dynamic Memory |
-| 136 | Dynamic 2D Array | Dynamic Memory |
-| 137 | Student Class | OOP-Class |
-| 138 | Rectangle Class | OOP-Class |
-| 139 | BankAccount Class | OOP-Class |
+| 78 | Prime Check | For Loop |
+| 79 | Power Without pow() | For Loop |
+| 80 | Sum of Squares | For Loop |
+| 81 | Sum of Cubes | For Loop |
+| 82 | Harmonic Series | For Loop |
+| 83 | ASCII A to Z | For Loop |
+| 84 | Decimal to Binary | For Loop |
+| 85 | Binary to Decimal | For Loop |
+| 86 | Perfect Number | For Loop |
+| 87 | Armstrong Number | For Loop |
+| 88 | Strong Number | For Loop |
+| 89 | Print Divisors | For Loop |
+| 90 | While: Sum till 0 | While Loop |
+| 91 | While: Count Digits | While Loop |
+| 92 | While: Reverse Number | While Loop |
+| 93 | Right Triangle Stars | Patterns |
+| 94 | Inverted Triangle | Patterns |
+| 95 | Pyramid Stars | Patterns |
+| 96 | Inverted Pyramid | Patterns |
+| 97 | Diamond Pattern | Patterns |
+| 98 | Hollow Rectangle | Patterns |
+| 99 | Hollow Pyramid | Patterns |
+| 100 | Right Aligned Triangle | Patterns |
+| 101 | Floyd's Triangle | Patterns |
+| 102 | Pascal's Triangle | Patterns |
+| 103 | Number Pyramid | Patterns |
+| 104 | Zigzag Pattern | Patterns |
+| 105 | Butterfly Pattern | Patterns |
+| 106 | Sandglass Pattern | Patterns |
+| 107 | Alphabet Triangle | Patterns |
+| 108 | Reverse Alphabet Triangle | Patterns |
+| 109 | Number Diamond | Patterns |
+| 110 | Hollow Diamond | Patterns |
+| 111 | Arrow Pattern | Patterns |
+| 112 | Checkerboard | Patterns |
+| 113 | Spiral Numbers | Patterns |
+| 114 | Cross Pattern | Patterns |
+| 115 | Plus Pattern | Patterns |
+| 116 | Heart Pattern | Patterns |
+| 117 | Inverted Number Triangle | Patterns |
+| 118 | Pass by Value vs Ref | Functions |
+| 119 | Default Arguments | Functions |
+| 120 | Function Overloading 1 | Functions |
+| 121 | Function Overloading 2 | Functions |
+| 122 | Inline Function | Functions |
+| 123 | Temperature Converter | Functions |
+| 124 | isPrime Function | Functions |
+| 125 | GCD Function | Functions |
+| 126 | Print 1 to N Recursive | Recursion |
+| 127 | Print N to 1 Recursive | Recursion |
+| 128 | Reverse String Recursive | Recursion |
+| 129 | Palindrome Recursive | Recursion |
+| 130 | GCD Recursive | Recursion |
+| 131 | Pointer Basics | Pointers |
+| 132 | Pointer Arithmetic | Pointers |
+| 133 | Swap using Pointers | Pointers |
+| 134 | Array via Pointer | Pointers |
+| 135 | Pointer to Pointer | Pointers |
+| 136 | Dynamic Array (new/delete) | Dynamic Memory |
+| 137 | Dynamic 2D Array | Dynamic Memory |
+| 138 | Student Class | OOP-Class |
+| 139 | Rectangle Class | OOP-Class |
+| 140 | BankAccount Class | OOP-Class |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-03-01T17:27:56.802Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-03-01T17:33:47.222Z*
