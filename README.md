@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 141
+**Problems Solved:** 142
 
 ## ? Solved Problems
 
@@ -132,22 +132,23 @@
 | 124 | Temperature Converter | Functions |
 | 125 | isPrime Function | Functions |
 | 126 | GCD Function | Functions |
-| 127 | Print 1 to N Recursive | Recursion |
-| 128 | Print N to 1 Recursive | Recursion |
-| 129 | Reverse String Recursive | Recursion |
-| 130 | Palindrome Recursive | Recursion |
-| 131 | GCD Recursive | Recursion |
-| 132 | Pointer Basics | Pointers |
-| 133 | Pointer Arithmetic | Pointers |
-| 134 | Swap using Pointers | Pointers |
-| 135 | Array via Pointer | Pointers |
-| 136 | Pointer to Pointer | Pointers |
-| 137 | Dynamic Array (new/delete) | Dynamic Memory |
-| 138 | Dynamic 2D Array | Dynamic Memory |
-| 139 | Student Class | OOP-Class |
-| 140 | Rectangle Class | OOP-Class |
-| 141 | BankAccount Class | OOP-Class |
+| 127 | Palindrome Check Func | Functions |
+| 128 | Print 1 to N Recursive | Recursion |
+| 129 | Print N to 1 Recursive | Recursion |
+| 130 | Reverse String Recursive | Recursion |
+| 131 | Palindrome Recursive | Recursion |
+| 132 | GCD Recursive | Recursion |
+| 133 | Pointer Basics | Pointers |
+| 134 | Pointer Arithmetic | Pointers |
+| 135 | Swap using Pointers | Pointers |
+| 136 | Array via Pointer | Pointers |
+| 137 | Pointer to Pointer | Pointers |
+| 138 | Dynamic Array (new/delete) | Dynamic Memory |
+| 139 | Dynamic 2D Array | Dynamic Memory |
+| 140 | Student Class | OOP-Class |
+| 141 | Rectangle Class | OOP-Class |
+| 142 | BankAccount Class | OOP-Class |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-03-01T17:47:48.731Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-03-01T18:06:30.949Z*
