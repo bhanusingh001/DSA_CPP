@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 147
+**Problems Solved:** 148
 
 ## ? Solved Problems
 
@@ -138,22 +138,23 @@
 | 130 | Array Max Function | Functions |
 | 131 | Count Vowels Func | Functions |
 | 132 | Reverse String Func | Functions |
-| 133 | Print 1 to N Recursive | Recursion |
-| 134 | Print N to 1 Recursive | Recursion |
-| 135 | Reverse String Recursive | Recursion |
-| 136 | Palindrome Recursive | Recursion |
-| 137 | GCD Recursive | Recursion |
-| 138 | Pointer Basics | Pointers |
-| 139 | Pointer Arithmetic | Pointers |
-| 140 | Swap using Pointers | Pointers |
-| 141 | Array via Pointer | Pointers |
-| 142 | Pointer to Pointer | Pointers |
-| 143 | Dynamic Array (new/delete) | Dynamic Memory |
-| 144 | Dynamic 2D Array | Dynamic Memory |
-| 145 | Student Class | OOP-Class |
-| 146 | Rectangle Class | OOP-Class |
-| 147 | BankAccount Class | OOP-Class |
+| 133 | Return Multiple Values | Functions |
+| 134 | Print 1 to N Recursive | Recursion |
+| 135 | Print N to 1 Recursive | Recursion |
+| 136 | Reverse String Recursive | Recursion |
+| 137 | Palindrome Recursive | Recursion |
+| 138 | GCD Recursive | Recursion |
+| 139 | Pointer Basics | Pointers |
+| 140 | Pointer Arithmetic | Pointers |
+| 141 | Swap using Pointers | Pointers |
+| 142 | Array via Pointer | Pointers |
+| 143 | Pointer to Pointer | Pointers |
+| 144 | Dynamic Array (new/delete) | Dynamic Memory |
+| 145 | Dynamic 2D Array | Dynamic Memory |
+| 146 | Student Class | OOP-Class |
+| 147 | Rectangle Class | OOP-Class |
+| 148 | BankAccount Class | OOP-Class |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-03-01T18:10:49.687Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-03-01T18:14:49.359Z*
