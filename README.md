@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 149
+**Problems Solved:** 150
 
 ## ? Solved Problems
 
@@ -125,37 +125,38 @@
 | 117 | Heart Pattern | Patterns |
 | 118 | Inverted Number Triangle | Patterns |
 | 119 | Column Number Pattern | Patterns |
-| 120 | Pass by Value vs Ref | Functions |
-| 121 | Default Arguments | Functions |
-| 122 | Function Overloading 1 | Functions |
-| 123 | Function Overloading 2 | Functions |
-| 124 | Inline Function | Functions |
-| 125 | Temperature Converter | Functions |
-| 126 | isPrime Function | Functions |
-| 127 | GCD Function | Functions |
-| 128 | Palindrome Check Func | Functions |
-| 129 | Armstrong Check Func | Functions |
-| 130 | Array Sum Function | Functions |
-| 131 | Array Max Function | Functions |
-| 132 | Count Vowels Func | Functions |
-| 133 | Reverse String Func | Functions |
-| 134 | Return Multiple Values | Functions |
-| 135 | Print 1 to N Recursive | Recursion |
-| 136 | Print N to 1 Recursive | Recursion |
-| 137 | Reverse String Recursive | Recursion |
-| 138 | Palindrome Recursive | Recursion |
-| 139 | GCD Recursive | Recursion |
-| 140 | Pointer Basics | Pointers |
-| 141 | Pointer Arithmetic | Pointers |
-| 142 | Swap using Pointers | Pointers |
-| 143 | Array via Pointer | Pointers |
-| 144 | Pointer to Pointer | Pointers |
-| 145 | Dynamic Array (new/delete) | Dynamic Memory |
-| 146 | Dynamic 2D Array | Dynamic Memory |
-| 147 | Student Class | OOP-Class |
-| 148 | Rectangle Class | OOP-Class |
-| 149 | BankAccount Class | OOP-Class |
+| 120 | Repeating Number Rows | Patterns |
+| 121 | Pass by Value vs Ref | Functions |
+| 122 | Default Arguments | Functions |
+| 123 | Function Overloading 1 | Functions |
+| 124 | Function Overloading 2 | Functions |
+| 125 | Inline Function | Functions |
+| 126 | Temperature Converter | Functions |
+| 127 | isPrime Function | Functions |
+| 128 | GCD Function | Functions |
+| 129 | Palindrome Check Func | Functions |
+| 130 | Armstrong Check Func | Functions |
+| 131 | Array Sum Function | Functions |
+| 132 | Array Max Function | Functions |
+| 133 | Count Vowels Func | Functions |
+| 134 | Reverse String Func | Functions |
+| 135 | Return Multiple Values | Functions |
+| 136 | Print 1 to N Recursive | Recursion |
+| 137 | Print N to 1 Recursive | Recursion |
+| 138 | Reverse String Recursive | Recursion |
+| 139 | Palindrome Recursive | Recursion |
+| 140 | GCD Recursive | Recursion |
+| 141 | Pointer Basics | Pointers |
+| 142 | Pointer Arithmetic | Pointers |
+| 143 | Swap using Pointers | Pointers |
+| 144 | Array via Pointer | Pointers |
+| 145 | Pointer to Pointer | Pointers |
+| 146 | Dynamic Array (new/delete) | Dynamic Memory |
+| 147 | Dynamic 2D Array | Dynamic Memory |
+| 148 | Student Class | OOP-Class |
+| 149 | Rectangle Class | OOP-Class |
+| 150 | BankAccount Class | OOP-Class |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-03-02T16:58:36.801Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-03-02T16:59:51.916Z*
