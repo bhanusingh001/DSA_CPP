@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 159
+**Problems Solved:** 160
 
 ## ? Solved Problems
 
@@ -155,17 +155,18 @@
 | 147 | Tower of Hanoi | Recursion |
 | 148 | Binary Search Recursive | Recursion |
 | 149 | Array Sum Recursive | Recursion |
-| 150 | Pointer Basics | Pointers |
-| 151 | Pointer Arithmetic | Pointers |
-| 152 | Swap using Pointers | Pointers |
-| 153 | Array via Pointer | Pointers |
-| 154 | Pointer to Pointer | Pointers |
-| 155 | Dynamic Array (new/delete) | Dynamic Memory |
-| 156 | Dynamic 2D Array | Dynamic Memory |
-| 157 | Student Class | OOP-Class |
-| 158 | Rectangle Class | OOP-Class |
-| 159 | BankAccount Class | OOP-Class |
+| 150 | Array Max Recursive | Recursion |
+| 151 | Pointer Basics | Pointers |
+| 152 | Pointer Arithmetic | Pointers |
+| 153 | Swap using Pointers | Pointers |
+| 154 | Array via Pointer | Pointers |
+| 155 | Pointer to Pointer | Pointers |
+| 156 | Dynamic Array (new/delete) | Dynamic Memory |
+| 157 | Dynamic 2D Array | Dynamic Memory |
+| 158 | Student Class | OOP-Class |
+| 159 | Rectangle Class | OOP-Class |
+| 160 | BankAccount Class | OOP-Class |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-03-10T17:54:42.899Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-03-10T18:18:07.918Z*
