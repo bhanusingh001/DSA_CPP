@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 161
+**Problems Solved:** 162
 
 ## ? Solved Problems
 
@@ -167,7 +167,8 @@
 | 159 | Student Class | OOP-Class |
 | 160 | Rectangle Class | OOP-Class |
 | 161 | BankAccount Class | OOP-Class |
+| 162 | Array of Objects | OOP-Class |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-03-23T06:40:28.143Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-03-23T18:22:16.117Z*
