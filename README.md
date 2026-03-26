@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 164
+**Problems Solved:** 165
 
 ## ? Solved Problems
 
@@ -147,30 +147,31 @@
 | 139 | Count Vowels Func | Functions |
 | 140 | Reverse String Func | Functions |
 | 141 | Return Multiple Values | Functions |
-| 142 | Print 1 to N Recursive | Recursion |
-| 143 | Print N to 1 Recursive | Recursion |
-| 144 | Reverse String Recursive | Recursion |
-| 145 | Palindrome Recursive | Recursion |
-| 146 | GCD Recursive | Recursion |
-| 147 | Tower of Hanoi | Recursion |
-| 148 | Binary Search Recursive | Recursion |
-| 149 | Array Sum Recursive | Recursion |
-| 150 | Array Max Recursive | Recursion |
-| 151 | Two Sum | Arrays |
-| 152 | Sort String | Strings |
-| 153 | Pointer Basics | Pointers |
-| 154 | Pointer Arithmetic | Pointers |
-| 155 | Swap using Pointers | Pointers |
-| 156 | Array via Pointer | Pointers |
-| 157 | Pointer to Pointer | Pointers |
-| 158 | Dynamic Array (new/delete) | Dynamic Memory |
-| 159 | Dynamic 2D Array | Dynamic Memory |
-| 160 | Dangling Pointer | Pointers |
-| 161 | Student Class | OOP-Class |
-| 162 | Rectangle Class | OOP-Class |
-| 163 | BankAccount Class | OOP-Class |
-| 164 | Array of Objects | OOP-Class |
+| 142 | Fibonacci Recursive | Recursion |
+| 143 | Print 1 to N Recursive | Recursion |
+| 144 | Print N to 1 Recursive | Recursion |
+| 145 | Reverse String Recursive | Recursion |
+| 146 | Palindrome Recursive | Recursion |
+| 147 | GCD Recursive | Recursion |
+| 148 | Tower of Hanoi | Recursion |
+| 149 | Binary Search Recursive | Recursion |
+| 150 | Array Sum Recursive | Recursion |
+| 151 | Array Max Recursive | Recursion |
+| 152 | Two Sum | Arrays |
+| 153 | Sort String | Strings |
+| 154 | Pointer Basics | Pointers |
+| 155 | Pointer Arithmetic | Pointers |
+| 156 | Swap using Pointers | Pointers |
+| 157 | Array via Pointer | Pointers |
+| 158 | Pointer to Pointer | Pointers |
+| 159 | Dynamic Array (new/delete) | Dynamic Memory |
+| 160 | Dynamic 2D Array | Dynamic Memory |
+| 161 | Dangling Pointer | Pointers |
+| 162 | Student Class | OOP-Class |
+| 163 | Rectangle Class | OOP-Class |
+| 164 | BankAccount Class | OOP-Class |
+| 165 | Array of Objects | OOP-Class |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-03-25T18:10:57.639Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-03-26T18:16:50.374Z*
