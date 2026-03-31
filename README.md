@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 165
+**Problems Solved:** 166
 
 ## ? Solved Problems
 
@@ -147,31 +147,32 @@
 | 139 | Count Vowels Func | Functions |
 | 140 | Reverse String Func | Functions |
 | 141 | Return Multiple Values | Functions |
-| 142 | Fibonacci Recursive | Recursion |
-| 143 | Print 1 to N Recursive | Recursion |
-| 144 | Print N to 1 Recursive | Recursion |
-| 145 | Reverse String Recursive | Recursion |
-| 146 | Palindrome Recursive | Recursion |
-| 147 | GCD Recursive | Recursion |
-| 148 | Tower of Hanoi | Recursion |
-| 149 | Binary Search Recursive | Recursion |
-| 150 | Array Sum Recursive | Recursion |
-| 151 | Array Max Recursive | Recursion |
-| 152 | Two Sum | Arrays |
-| 153 | Sort String | Strings |
-| 154 | Pointer Basics | Pointers |
-| 155 | Pointer Arithmetic | Pointers |
-| 156 | Swap using Pointers | Pointers |
-| 157 | Array via Pointer | Pointers |
-| 158 | Pointer to Pointer | Pointers |
-| 159 | Dynamic Array (new/delete) | Dynamic Memory |
-| 160 | Dynamic 2D Array | Dynamic Memory |
-| 161 | Dangling Pointer | Pointers |
-| 162 | Student Class | OOP-Class |
-| 163 | Rectangle Class | OOP-Class |
-| 164 | BankAccount Class | OOP-Class |
-| 165 | Array of Objects | OOP-Class |
+| 142 | Scope: Local vs Global | Functions |
+| 143 | Fibonacci Recursive | Recursion |
+| 144 | Print 1 to N Recursive | Recursion |
+| 145 | Print N to 1 Recursive | Recursion |
+| 146 | Reverse String Recursive | Recursion |
+| 147 | Palindrome Recursive | Recursion |
+| 148 | GCD Recursive | Recursion |
+| 149 | Tower of Hanoi | Recursion |
+| 150 | Binary Search Recursive | Recursion |
+| 151 | Array Sum Recursive | Recursion |
+| 152 | Array Max Recursive | Recursion |
+| 153 | Two Sum | Arrays |
+| 154 | Sort String | Strings |
+| 155 | Pointer Basics | Pointers |
+| 156 | Pointer Arithmetic | Pointers |
+| 157 | Swap using Pointers | Pointers |
+| 158 | Array via Pointer | Pointers |
+| 159 | Pointer to Pointer | Pointers |
+| 160 | Dynamic Array (new/delete) | Dynamic Memory |
+| 161 | Dynamic 2D Array | Dynamic Memory |
+| 162 | Dangling Pointer | Pointers |
+| 163 | Student Class | OOP-Class |
+| 164 | Rectangle Class | OOP-Class |
+| 165 | BankAccount Class | OOP-Class |
+| 166 | Array of Objects | OOP-Class |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-03-26T18:16:50.374Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-03-31T17:58:53.636Z*
