@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 169
+**Problems Solved:** 170
 
 ## ? Solved Problems
 
@@ -152,30 +152,31 @@
 | 144 | Namespace Demo | Functions |
 | 145 | Callback Function | Functions |
 | 146 | Fibonacci Recursive | Recursion |
-| 147 | Print 1 to N Recursive | Recursion |
-| 148 | Print N to 1 Recursive | Recursion |
-| 149 | Reverse String Recursive | Recursion |
-| 150 | Palindrome Recursive | Recursion |
-| 151 | GCD Recursive | Recursion |
-| 152 | Tower of Hanoi | Recursion |
-| 153 | Binary Search Recursive | Recursion |
-| 154 | Array Sum Recursive | Recursion |
-| 155 | Array Max Recursive | Recursion |
-| 156 | Two Sum | Arrays |
-| 157 | Sort String | Strings |
-| 158 | Pointer Basics | Pointers |
-| 159 | Pointer Arithmetic | Pointers |
-| 160 | Swap using Pointers | Pointers |
-| 161 | Array via Pointer | Pointers |
-| 162 | Pointer to Pointer | Pointers |
-| 163 | Dynamic Array (new/delete) | Dynamic Memory |
-| 164 | Dynamic 2D Array | Dynamic Memory |
-| 165 | Dangling Pointer | Pointers |
-| 166 | Student Class | OOP-Class |
-| 167 | Rectangle Class | OOP-Class |
-| 168 | BankAccount Class | OOP-Class |
-| 169 | Array of Objects | OOP-Class |
+| 147 | Power Recursive | Recursion |
+| 148 | Print 1 to N Recursive | Recursion |
+| 149 | Print N to 1 Recursive | Recursion |
+| 150 | Reverse String Recursive | Recursion |
+| 151 | Palindrome Recursive | Recursion |
+| 152 | GCD Recursive | Recursion |
+| 153 | Tower of Hanoi | Recursion |
+| 154 | Binary Search Recursive | Recursion |
+| 155 | Array Sum Recursive | Recursion |
+| 156 | Array Max Recursive | Recursion |
+| 157 | Two Sum | Arrays |
+| 158 | Sort String | Strings |
+| 159 | Pointer Basics | Pointers |
+| 160 | Pointer Arithmetic | Pointers |
+| 161 | Swap using Pointers | Pointers |
+| 162 | Array via Pointer | Pointers |
+| 163 | Pointer to Pointer | Pointers |
+| 164 | Dynamic Array (new/delete) | Dynamic Memory |
+| 165 | Dynamic 2D Array | Dynamic Memory |
+| 166 | Dangling Pointer | Pointers |
+| 167 | Student Class | OOP-Class |
+| 168 | Rectangle Class | OOP-Class |
+| 169 | BankAccount Class | OOP-Class |
+| 170 | Array of Objects | OOP-Class |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-03-31T18:30:50.529Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-04-01T18:15:23.129Z*
