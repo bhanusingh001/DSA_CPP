@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 172
+**Problems Solved:** 173
 
 ## ? Solved Problems
 
@@ -165,20 +165,21 @@
 | 157 | Two Sum | Arrays |
 | 158 | Best Buy Sell Stock | Arrays |
 | 159 | Contains Duplicate | Arrays |
-| 160 | Sort String | Strings |
-| 161 | Pointer Basics | Pointers |
-| 162 | Pointer Arithmetic | Pointers |
-| 163 | Swap using Pointers | Pointers |
-| 164 | Array via Pointer | Pointers |
-| 165 | Pointer to Pointer | Pointers |
-| 166 | Dynamic Array (new/delete) | Dynamic Memory |
-| 167 | Dynamic 2D Array | Dynamic Memory |
-| 168 | Dangling Pointer | Pointers |
-| 169 | Student Class | OOP-Class |
-| 170 | Rectangle Class | OOP-Class |
-| 171 | BankAccount Class | OOP-Class |
-| 172 | Array of Objects | OOP-Class |
+| 160 | Binary Search | Arrays |
+| 161 | Sort String | Strings |
+| 162 | Pointer Basics | Pointers |
+| 163 | Pointer Arithmetic | Pointers |
+| 164 | Swap using Pointers | Pointers |
+| 165 | Array via Pointer | Pointers |
+| 166 | Pointer to Pointer | Pointers |
+| 167 | Dynamic Array (new/delete) | Dynamic Memory |
+| 168 | Dynamic 2D Array | Dynamic Memory |
+| 169 | Dangling Pointer | Pointers |
+| 170 | Student Class | OOP-Class |
+| 171 | Rectangle Class | OOP-Class |
+| 172 | BankAccount Class | OOP-Class |
+| 173 | Array of Objects | OOP-Class |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-04-02T18:19:12.623Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-04-03T17:15:47.274Z*
