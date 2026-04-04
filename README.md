@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 174
+**Problems Solved:** 175
 
 ## ? Solved Problems
 
@@ -180,7 +180,8 @@
 | 172 | BankAccount Class | OOP-Class |
 | 173 | Array of Objects | OOP-Class |
 | 174 | Min Stack | STL-Stack |
+| 175 | Valid Parentheses Stack | STL-Stack |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-04-04T18:00:22.664Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-04-04T18:01:27.815Z*
