@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 173
+**Problems Solved:** 174
 
 ## ? Solved Problems
 
@@ -179,7 +179,8 @@
 | 171 | Rectangle Class | OOP-Class |
 | 172 | BankAccount Class | OOP-Class |
 | 173 | Array of Objects | OOP-Class |
+| 174 | Min Stack | STL-Stack |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-04-03T17:15:47.274Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-04-04T18:00:22.664Z*
