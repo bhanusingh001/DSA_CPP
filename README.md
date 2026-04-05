@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 175
+**Problems Solved:** 176
 
 ## ? Solved Problems
 
@@ -181,7 +181,8 @@
 | 173 | Array of Objects | OOP-Class |
 | 174 | Min Stack | STL-Stack |
 | 175 | Valid Parentheses Stack | STL-Stack |
+| 176 | Reverse Bits | Bits |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-04-04T18:01:27.815Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-04-05T17:56:08.602Z*
