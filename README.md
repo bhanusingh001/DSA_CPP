@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 179
+**Problems Solved:** 180
 
 ## ? Solved Problems
 
@@ -166,26 +166,27 @@
 | 158 | Best Buy Sell Stock | Arrays |
 | 159 | Contains Duplicate | Arrays |
 | 160 | Binary Search | Arrays |
-| 161 | Sort String | Strings |
-| 162 | Pointer Basics | Pointers |
-| 163 | Pointer Arithmetic | Pointers |
-| 164 | Swap using Pointers | Pointers |
-| 165 | Array via Pointer | Pointers |
-| 166 | Pointer to Pointer | Pointers |
-| 167 | Dynamic Array (new/delete) | Dynamic Memory |
-| 168 | Dynamic 2D Array | Dynamic Memory |
-| 169 | Dangling Pointer | Pointers |
-| 170 | Student Class | OOP-Class |
-| 171 | Rectangle Class | OOP-Class |
-| 172 | BankAccount Class | OOP-Class |
-| 173 | Array of Objects | OOP-Class |
-| 174 | Min Stack | STL-Stack |
-| 175 | Valid Parentheses Stack | STL-Stack |
-| 176 | Implement Queue using Stack | STL-Queue |
-| 177 | Implement Stack using Queue | STL-Queue |
-| 178 | Power of Two Bits | Bits |
-| 179 | Reverse Bits | Bits |
+| 161 | Merge Two Sorted | Arrays |
+| 162 | Sort String | Strings |
+| 163 | Pointer Basics | Pointers |
+| 164 | Pointer Arithmetic | Pointers |
+| 165 | Swap using Pointers | Pointers |
+| 166 | Array via Pointer | Pointers |
+| 167 | Pointer to Pointer | Pointers |
+| 168 | Dynamic Array (new/delete) | Dynamic Memory |
+| 169 | Dynamic 2D Array | Dynamic Memory |
+| 170 | Dangling Pointer | Pointers |
+| 171 | Student Class | OOP-Class |
+| 172 | Rectangle Class | OOP-Class |
+| 173 | BankAccount Class | OOP-Class |
+| 174 | Array of Objects | OOP-Class |
+| 175 | Min Stack | STL-Stack |
+| 176 | Valid Parentheses Stack | STL-Stack |
+| 177 | Implement Queue using Stack | STL-Queue |
+| 178 | Implement Stack using Queue | STL-Queue |
+| 179 | Power of Two Bits | Bits |
+| 180 | Reverse Bits | Bits |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-04-07T18:23:59.403Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-04-08T18:19:47.740Z*
