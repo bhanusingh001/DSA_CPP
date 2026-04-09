@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 180
+**Problems Solved:** 181
 
 ## ? Solved Problems
 
@@ -180,13 +180,14 @@
 | 172 | Rectangle Class | OOP-Class |
 | 173 | BankAccount Class | OOP-Class |
 | 174 | Array of Objects | OOP-Class |
-| 175 | Min Stack | STL-Stack |
-| 176 | Valid Parentheses Stack | STL-Stack |
-| 177 | Implement Queue using Stack | STL-Queue |
-| 178 | Implement Stack using Queue | STL-Queue |
-| 179 | Power of Two Bits | Bits |
-| 180 | Reverse Bits | Bits |
+| 175 | Valid Parentheses Map | STL-Map |
+| 176 | Min Stack | STL-Stack |
+| 177 | Valid Parentheses Stack | STL-Stack |
+| 178 | Implement Queue using Stack | STL-Queue |
+| 179 | Implement Stack using Queue | STL-Queue |
+| 180 | Power of Two Bits | Bits |
+| 181 | Reverse Bits | Bits |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-04-08T18:19:47.740Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-04-09T18:21:00.908Z*
