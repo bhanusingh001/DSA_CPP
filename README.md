@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 186
+**Problems Solved:** 187
 
 ## ? Solved Problems
 
@@ -181,18 +181,19 @@
 | 173 | Void Pointer | Pointers |
 | 174 | Reference vs Pointer | Pointers |
 | 175 | Pointer to Function | Pointers |
-| 176 | Student Class | OOP-Class |
-| 177 | Rectangle Class | OOP-Class |
-| 178 | BankAccount Class | OOP-Class |
-| 179 | Array of Objects | OOP-Class |
-| 180 | Valid Parentheses Map | STL-Map |
-| 181 | Min Stack | STL-Stack |
-| 182 | Valid Parentheses Stack | STL-Stack |
-| 183 | Implement Queue using Stack | STL-Queue |
-| 184 | Implement Stack using Queue | STL-Queue |
-| 185 | Power of Two Bits | Bits |
-| 186 | Reverse Bits | Bits |
+| 176 | Pointer to String | Pointers |
+| 177 | Student Class | OOP-Class |
+| 178 | Rectangle Class | OOP-Class |
+| 179 | BankAccount Class | OOP-Class |
+| 180 | Array of Objects | OOP-Class |
+| 181 | Valid Parentheses Map | STL-Map |
+| 182 | Min Stack | STL-Stack |
+| 183 | Valid Parentheses Stack | STL-Stack |
+| 184 | Implement Queue using Stack | STL-Queue |
+| 185 | Implement Stack using Queue | STL-Queue |
+| 186 | Power of Two Bits | Bits |
+| 187 | Reverse Bits | Bits |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-04-11T18:28:00.556Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-04-11T18:29:07.768Z*
