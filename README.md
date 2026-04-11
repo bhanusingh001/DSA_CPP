@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 181
+**Problems Solved:** 182
 
 ## ? Solved Problems
 
@@ -176,18 +176,19 @@
 | 168 | Dynamic Array (new/delete) | Dynamic Memory |
 | 169 | Dynamic 2D Array | Dynamic Memory |
 | 170 | Dangling Pointer | Pointers |
-| 171 | Student Class | OOP-Class |
-| 172 | Rectangle Class | OOP-Class |
-| 173 | BankAccount Class | OOP-Class |
-| 174 | Array of Objects | OOP-Class |
-| 175 | Valid Parentheses Map | STL-Map |
-| 176 | Min Stack | STL-Stack |
-| 177 | Valid Parentheses Stack | STL-Stack |
-| 178 | Implement Queue using Stack | STL-Queue |
-| 179 | Implement Stack using Queue | STL-Queue |
-| 180 | Power of Two Bits | Bits |
-| 181 | Reverse Bits | Bits |
+| 171 | Null Pointer Check | Pointers |
+| 172 | Student Class | OOP-Class |
+| 173 | Rectangle Class | OOP-Class |
+| 174 | BankAccount Class | OOP-Class |
+| 175 | Array of Objects | OOP-Class |
+| 176 | Valid Parentheses Map | STL-Map |
+| 177 | Min Stack | STL-Stack |
+| 178 | Valid Parentheses Stack | STL-Stack |
+| 179 | Implement Queue using Stack | STL-Queue |
+| 180 | Implement Stack using Queue | STL-Queue |
+| 181 | Power of Two Bits | Bits |
+| 182 | Reverse Bits | Bits |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-04-09T18:21:00.908Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-04-11T17:58:06.602Z*
