@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 184
+**Problems Solved:** 185
 
 ## ? Solved Problems
 
@@ -179,18 +179,19 @@
 | 171 | Null Pointer Check | Pointers |
 | 172 | Const Pointer | Pointers |
 | 173 | Void Pointer | Pointers |
-| 174 | Student Class | OOP-Class |
-| 175 | Rectangle Class | OOP-Class |
-| 176 | BankAccount Class | OOP-Class |
-| 177 | Array of Objects | OOP-Class |
-| 178 | Valid Parentheses Map | STL-Map |
-| 179 | Min Stack | STL-Stack |
-| 180 | Valid Parentheses Stack | STL-Stack |
-| 181 | Implement Queue using Stack | STL-Queue |
-| 182 | Implement Stack using Queue | STL-Queue |
-| 183 | Power of Two Bits | Bits |
-| 184 | Reverse Bits | Bits |
+| 174 | Reference vs Pointer | Pointers |
+| 175 | Student Class | OOP-Class |
+| 176 | Rectangle Class | OOP-Class |
+| 177 | BankAccount Class | OOP-Class |
+| 178 | Array of Objects | OOP-Class |
+| 179 | Valid Parentheses Map | STL-Map |
+| 180 | Min Stack | STL-Stack |
+| 181 | Valid Parentheses Stack | STL-Stack |
+| 182 | Implement Queue using Stack | STL-Queue |
+| 183 | Implement Stack using Queue | STL-Queue |
+| 184 | Power of Two Bits | Bits |
+| 185 | Reverse Bits | Bits |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-04-11T18:04:04.089Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-04-11T18:06:44.847Z*
