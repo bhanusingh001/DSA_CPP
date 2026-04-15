@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 189
+**Problems Solved:** 190
 
 ## ? Solved Problems
 
@@ -193,9 +193,10 @@
 | 185 | Valid Parentheses Stack | STL-Stack |
 | 186 | Implement Queue using Stack | STL-Queue |
 | 187 | Implement Stack using Queue | STL-Queue |
-| 188 | Power of Two Bits | Bits |
-| 189 | Reverse Bits | Bits |
+| 188 | BFS Level Order | STL-Queue |
+| 189 | Power of Two Bits | Bits |
+| 190 | Reverse Bits | Bits |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-04-14T17:43:37.387Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-04-15T16:56:51.983Z*
