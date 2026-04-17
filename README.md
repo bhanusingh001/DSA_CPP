@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 193
+**Problems Solved:** 194
 
 ## ? Solved Problems
 
@@ -197,9 +197,10 @@
 | 189 | BFS Level Order | STL-Queue |
 | 190 | Power of Two Bits | Bits |
 | 191 | Reverse Bits | Bits |
-| 192 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | C++ Basics & STL |
-| 193 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Stack & Queue |
+| 192 | Check if Array is Sorted | C++ Basics & STL |
+| 193 | Remove Duplicates from Sorted Array | C++ Basics & STL |
+| 194 | Valid Parentheses | Stack & Queue |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-04-17T17:32:45.804Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-04-17T18:06:59.216Z*
