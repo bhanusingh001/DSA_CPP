@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 194
+**Problems Solved:** 195
 
 ## ? Solved Problems
 
@@ -199,8 +199,9 @@
 | 191 | Reverse Bits | Bits |
 | 192 | Check if Array is Sorted | C++ Basics & STL |
 | 193 | Remove Duplicates from Sorted Array | C++ Basics & STL |
-| 194 | Valid Parentheses | Stack & Queue |
+| 194 | Count of Matches in a Tournament | C++ Basics & STL |
+| 195 | Valid Parentheses | Stack & Queue |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-04-17T18:08:32.884Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-04-19T18:14:39.616Z*
