@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 195
+**Problems Solved:** 196
 
 ## ? Solved Problems
 
@@ -201,7 +201,8 @@
 | 193 | Remove Duplicates from Sorted Array | C++ Basics & STL |
 | 194 | Count of Matches in a Tournament | C++ Basics & STL |
 | 195 | Valid Parentheses | Stack & Queue |
+| 196 | Find the Difference | Bit Manipulation |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-04-19T18:14:39.616Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-04-20T17:39:33.448Z*
