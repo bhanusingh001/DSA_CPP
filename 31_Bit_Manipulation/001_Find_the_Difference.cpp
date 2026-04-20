@@ -1,0 +1,22 @@
+/*
+ * Problem: Find the Difference
+ * Description: ? Solve ?
+ * Topic: Bit Manipulation
+ * Date: 2026-04-20
+ */
+
+class Solution {
+public:
+    char findTheDifference(string s, string t) {
+        int XOR = 0;
+        
+        for (char &ch: t)
+            XOR ^= ch;
+        
+        for (char &ch: s)
+            XOR ^=ch;
+        
+        return (char)XOR;
+    }
+};
+
