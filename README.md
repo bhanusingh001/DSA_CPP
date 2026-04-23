@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 196
+**Problems Solved:** 197
 
 ## ? Solved Problems
 
@@ -190,19 +190,20 @@
 | 182 | Kth Largest Element | STL-Vector |
 | 183 | Merge Intervals | STL-Vector |
 | 184 | Valid Parentheses Map | STL-Map |
-| 185 | Min Stack | STL-Stack |
-| 186 | Valid Parentheses Stack | STL-Stack |
-| 187 | Implement Queue using Stack | STL-Queue |
-| 188 | Implement Stack using Queue | STL-Queue |
-| 189 | BFS Level Order | STL-Queue |
-| 190 | Power of Two Bits | Bits |
-| 191 | Reverse Bits | Bits |
-| 192 | Check if Array is Sorted | C++ Basics & STL |
-| 193 | Remove Duplicates from Sorted Array | C++ Basics & STL |
-| 194 | Count of Matches in a Tournament | C++ Basics & STL |
-| 195 | Valid Parentheses | Stack & Queue |
-| 196 | Find the Difference | Bit Manipulation |
+| 185 | Intersection Two Arrays II | STL-Map |
+| 186 | Min Stack | STL-Stack |
+| 187 | Valid Parentheses Stack | STL-Stack |
+| 188 | Implement Queue using Stack | STL-Queue |
+| 189 | Implement Stack using Queue | STL-Queue |
+| 190 | BFS Level Order | STL-Queue |
+| 191 | Power of Two Bits | Bits |
+| 192 | Reverse Bits | Bits |
+| 193 | Check if Array is Sorted | C++ Basics & STL |
+| 194 | Remove Duplicates from Sorted Array | C++ Basics & STL |
+| 195 | Count of Matches in a Tournament | C++ Basics & STL |
+| 196 | Valid Parentheses | Stack & Queue |
+| 197 | Find the Difference | Bit Manipulation |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-04-20T17:41:05.240Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-04-23T18:33:38.092Z*
