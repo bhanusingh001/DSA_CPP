@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 197
+**Problems Solved:** 198
 
 ## ? Solved Problems
 
@@ -202,8 +202,9 @@
 | 194 | Count of Matches in a Tournament | C++ Basics & STL |
 | 195 | Left Rotate Array by K | C++ Basics & STL |
 | 196 | Valid Parentheses | Stack & Queue |
-| 197 | Find the Difference | Bit Manipulation |
+| 197 | Balanced Binary Tree | Binary Tree |
+| 198 | Find the Difference | Bit Manipulation |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-04-24T17:20:06.879Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-04-26T18:26:40.937Z*
