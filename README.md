@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 199
+**Problems Solved:** 200
 
 ## ? Solved Problems
 
@@ -204,8 +204,9 @@
 | 196 | Find Peak Element | Binary Search |
 | 197 | Valid Parentheses | Stack & Queue |
 | 198 | Balanced Binary Tree | Binary Tree |
-| 199 | Find the Difference | Bit Manipulation |
+| 199 | Diameter of Binary Tree | Binary Tree |
+| 200 | Find the Difference | Bit Manipulation |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-04-27T17:25:52.476Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-04-29T17:42:03.925Z*
