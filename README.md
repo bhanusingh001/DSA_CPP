@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 201
+**Problems Solved:** 202
 
 ## ? Solved Problems
 
@@ -203,11 +203,12 @@
 | 195 | Left Rotate Array by K | C++ Basics & STL |
 | 196 | Valid Palindrome | Strings |
 | 197 | Find Peak Element | Binary Search |
-| 198 | Valid Parentheses | Stack & Queue |
-| 199 | Balanced Binary Tree | Binary Tree |
-| 200 | Diameter of Binary Tree | Binary Tree |
-| 201 | Find the Difference | Bit Manipulation |
+| 198 | Intersection of Two Linked Lists | Linked List |
+| 199 | Valid Parentheses | Stack & Queue |
+| 200 | Balanced Binary Tree | Binary Tree |
+| 201 | Diameter of Binary Tree | Binary Tree |
+| 202 | Find the Difference | Bit Manipulation |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-05-01T18:17:29.632Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-05-01T18:20:50.673Z*
