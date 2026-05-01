@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 200
+**Problems Solved:** 201
 
 ## ? Solved Problems
 
@@ -201,12 +201,13 @@
 | 193 | Remove Duplicates from Sorted Array | C++ Basics & STL |
 | 194 | Count of Matches in a Tournament | C++ Basics & STL |
 | 195 | Left Rotate Array by K | C++ Basics & STL |
-| 196 | Find Peak Element | Binary Search |
-| 197 | Valid Parentheses | Stack & Queue |
-| 198 | Balanced Binary Tree | Binary Tree |
-| 199 | Diameter of Binary Tree | Binary Tree |
-| 200 | Find the Difference | Bit Manipulation |
+| 196 | Valid Palindrome | Strings |
+| 197 | Find Peak Element | Binary Search |
+| 198 | Valid Parentheses | Stack & Queue |
+| 199 | Balanced Binary Tree | Binary Tree |
+| 200 | Diameter of Binary Tree | Binary Tree |
+| 201 | Find the Difference | Bit Manipulation |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-04-29T17:42:03.925Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-05-01T18:17:29.632Z*
