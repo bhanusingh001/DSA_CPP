@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 203
+**Problems Solved:** 204
 
 ## ? Solved Problems
 
@@ -206,10 +206,11 @@
 | 198 | Intersection of Two Linked Lists | Linked List |
 | 199 | Valid Parentheses | Stack & Queue |
 | 200 | Implement Queue using Stacks | Stack & Queue |
-| 201 | Balanced Binary Tree | Binary Tree |
-| 202 | Diameter of Binary Tree | Binary Tree |
-| 203 | Find the Difference | Bit Manipulation |
+| 201 | Next Greater Element I | Stack & Queue |
+| 202 | Balanced Binary Tree | Binary Tree |
+| 203 | Diameter of Binary Tree | Binary Tree |
+| 204 | Find the Difference | Bit Manipulation |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-05-04T15:51:54.494Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-05-04T15:54:25.361Z*
