@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 202
+**Problems Solved:** 203
 
 ## ? Solved Problems
 
@@ -205,10 +205,11 @@
 | 197 | Find Peak Element | Binary Search |
 | 198 | Intersection of Two Linked Lists | Linked List |
 | 199 | Valid Parentheses | Stack & Queue |
-| 200 | Balanced Binary Tree | Binary Tree |
-| 201 | Diameter of Binary Tree | Binary Tree |
-| 202 | Find the Difference | Bit Manipulation |
+| 200 | Implement Queue using Stacks | Stack & Queue |
+| 201 | Balanced Binary Tree | Binary Tree |
+| 202 | Diameter of Binary Tree | Binary Tree |
+| 203 | Find the Difference | Bit Manipulation |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-05-01T18:20:50.673Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-05-04T15:51:54.494Z*
