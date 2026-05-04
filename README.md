@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 204
+**Problems Solved:** 205
 
 ## ? Solved Problems
 
@@ -207,10 +207,11 @@
 | 199 | Valid Parentheses | Stack & Queue |
 | 200 | Implement Queue using Stacks | Stack & Queue |
 | 201 | Next Greater Element I | Stack & Queue |
-| 202 | Balanced Binary Tree | Binary Tree |
-| 203 | Diameter of Binary Tree | Binary Tree |
-| 204 | Find the Difference | Bit Manipulation |
+| 202 | Next Greater Element II (circular) | Stack & Queue |
+| 203 | Balanced Binary Tree | Binary Tree |
+| 204 | Diameter of Binary Tree | Binary Tree |
+| 205 | Find the Difference | Bit Manipulation |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-05-04T15:54:25.361Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-05-04T16:05:09.353Z*
