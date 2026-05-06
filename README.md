@@ -1,6 +1,6 @@
 # ? DSA Practice in C++
 
-**Problems Solved:** 205
+**Problems Solved:** 206
 
 ## ? Solved Problems
 
@@ -211,7 +211,8 @@
 | 203 | Balanced Binary Tree | Binary Tree |
 | 204 | Diameter of Binary Tree | Binary Tree |
 | 205 | Find the Difference | Bit Manipulation |
+| 206 | Next Greater Element III | Stack & Queue |
 
 ---
 
-*Auto-generated from Google Sheets ? Last updated: 2026-05-04T16:05:09.353Z*
+*Auto-generated from Google Sheets ? Last updated: 2026-05-06T18:31:28.138Z*
